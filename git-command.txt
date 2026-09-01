@@ -1,0 +1,316 @@
+print [1  sudo apt update && sudo apt upgrade -y
+    2  pwd
+    3  is
+    4  ls
+    5  mkdir practice
+    6  cd practice
+    7  pwd
+    8  touch file1 . txt
+    9  ls
+   10  echo "hello Linux" > filel .txt
+   11  cat filel . txt
+   12  ls
+   13  r filel
+   14  rm filel rm . txt
+   15  rm -r file1 txt
+   16  ls
+   17  touch file1 ' txt
+   18  touch file1.txt
+   19  echo "Hello Linux" > file1.txt
+   20  cat file1.txt
+   21  mkdir test
+   22  mv file1.txt test/
+   23  cd test
+   24  ls
+   25  cat file1.txt
+   26  devops .txt
+   27  mkdir faizan
+   28  toch faizan. txt
+   29  touch faizan. txt
+   30  nano faizan. txt
+   31  cat faizan. txt
+   32  ls
+   33  CAT
+   34  ls
+   35  cat
+   36  touch jakir bhai
+   37  is
+   38  ls
+   39  touch nasir
+   40  ls
+   41  ls -l
+   42  touch ls -lt
+   43  ls -lt
+   44  nasir " 000 "
+   45  ls -ltr
+   46  touch ronak riya abi uwesh 
+   47  ls -ltr
+   48  ls clear
+   49  ls -l
+   50  clear
+   51  ls
+   52  toch riya
+   53  ls
+   54  ls -ltr
+   55  chod +x deploy.sh
+   56  'echo " deployment started"' > deploy.sh
+   57  clear
+   58  ps
+   59  jakir
+   60  touch jakit ltr
+   61  ls
+   62  cd
+   63  cl
+   64  document cd
+   65  ps aux
+   66  top
+   67  ls
+   68  cd
+   69  txt,
+   70  cat
+   71  LS
+   72  ls
+   73  nano test . txt
+   74  LS
+   75  ls
+   76  ls -l
+   77  cd jakir ls
+   78  cd jakir
+   79  cd faizan
+   80  touch file .txt
+   81  ls
+   82  nano file .txt
+   83  ls
+   84  cat file
+   85  nano file 
+   86  clear
+   87  ls -l file
+   88  chmod u+w file
+   89  chmod 777 file
+   90  ls -l file
+   91  cler
+   92  clear
+   93  ls
+   94  ls -a
+   95  ls -la
+   96  ltr
+   97  clear
+   98  ls -R /
+   99  clear
+  100  ls
+  101  faizan.txt
+  102  ls
+  103  mkdir
+  104  mkdir faizan
+  105  ls
+  106  cd prectice
+  107  cd faizan 
+  108  pwd
+  109  cd ronak
+  110  clear
+  111  ls
+  112  cd jakir
+  113  cd faizan
+  114  pwd
+  115  ls -l
+  116  faizan " 444 "
+  117  clera
+  118  clear
+  119  ls
+  120  ls pwd
+  121  pwd
+  122  ls -l
+  123  uwesh -l
+  124  mkdir sohel
+  125  cd documents
+  126  cd faizan
+  127  pwd
+  128  touch chotu dada
+  129  ls
+  130  ronak "444"
+  131  clear
+  132  ls
+  133  pwd
+  134  ls -l
+  135  clea4
+  136  clear
+  137  wpd
+  138  ltr
+  139  ls - ltr
+  140  ls - faizan
+  141  ls
+  142  pwd faizan
+  143  ltr
+  144  cd faizan
+  145  nano riya
+  146  nano faizan
+  147  whoami
+  148  date
+  149  sudo
+  150  clear
+  151  neno faizan
+  152  pwd
+  153  ls -la
+  154  clear
+  155  pwd
+  156  ls
+  157  ls -la
+  158  ltr
+  159  l - ltr
+  160  cat
+  161  clear
+  162  ls
+  163  pwd
+  164  cd faizan
+  165  ls
+  166  cd sohel
+  167  nano
+  168  ls
+  169  mkdir adnan
+  170  nano adnan
+  171  ls 
+  172  neno adnan
+  173  pwd
+  174  ls -la
+  175  ls - la
+  176  cd faizan 
+  177  mkdir pappu
+  178  ls
+  179  ls - ltr
+  180  pwd
+  181  cd
+  182  ls
+  183  cd faizan 
+  184  nano pappu
+  185  ls
+  186  pwd
+  187  whomi
+  188  whoami
+  189  ls
+  190  cd
+  191  cmm
+  192  op
+  193  cm
+  194  clear
+  195  ty
+  196  clear
+  197  t
+  198  ltr
+  199  pwd
+  200  medir baba
+  201  mkdir baba
+  202  ls
+  203  nano baba
+  204  ls
+  205  nano 
+  206  chmod
+  207  mv
+  208  ' mv help '
+  209  cat
+  210  mkdir madiha
+  211  nano madiha
+  212  ls osf
+  213  ls
+  214  cd ..
+  215  ls
+  216  cd madiha
+  217  pwd
+  218  cd ..
+  219  lt
+  220  cp
+  221  mkdir
+  222  ps -ef
+  223  sudo apt abdate
+  224  ls
+  225  pwd
+  226  mkdir
+  227  arbaz mkdir
+  228  clear
+  229  pwd
+  230  cd downloads
+  231  chmod 400 "docker-shot.pem"
+  232  ssh -i "docker-shot.pem" ubuntu@ec2-16-16-143-142.eu-north-1.compute.amazonaws.com
+  233  sudo apt -get update
+  234  wsl -l -v
+  235  exit
+  236  ls
+  237  ls -l
+  238  rm testing.gt
+  239  ls
+  240  git init
+  241  root
+  242  sudo whoami
+  243  exit
+  244  sudo whoami
+  245  git init
+  246  sudo apt update
+  247  sudo apt install git -y
+  248  ls
+  249  git init
+  250  ls -a
+  251  ls-a
+  252  la -a
+  253  ls -a
+  254  sudo apt update
+  255  sudo install git -y
+  256  sudo apt install git -y
+  257  git --version
+  258  ls
+  259  git init
+  260  ls -a
+  261  git init
+  262  git status
+  263  git add testing.py
+  264  git status
+  265  sudo apt get update 
+  266  sudo apt get update
+  267  sudo apt install git -y
+  268  git --verstion
+  269  git status
+  270  git commit -m "added testing.py"
+  271  git config --global user.name "Faizan Ansari"
+  272  git config --global user.email "97540faizanansari@gmail.com"
+  273  git config --global user.name "Faizan Ansari"
+  274  git commit -m "added testing.py"
+  275  git status 
+  276  rm testing.py
+  277  git status
+  278  git ristore testing.py
+  279  git restore testing.py
+  280  git status 
+  281  ls
+  282  histry print
+  283  history
+  284  sudo apt update
+  285  sudo apt install git -y
+  286  git --verstion
+  287  git --version
+  288  ls
+  289  git status
+  290  git push origin master
+  291  git remote add origin https://github.com/97540faizanansari-png/git-for-dewops.git
+  292  git dtatus
+  293  git status
+  294  git remote -v
+  295  git remote add origin https://github.com/97540faizanansari-png/git-for-dewops.git
+  296  clear
+  297  git remote -v
+  298  git remote set-url origin https://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github.com/97540faizanansari-png/git-for-dewops.git
+  299  git remote -v
+  300  git push origin master
+  301  git branch
+  302  git push origin main
+  303  git remote set-url origin https://github.com/97540faizanansari-png/git-for-devops.git
+  304  git push -u origin main
+  305  git remote set-url origin https://github.com/97540faizansansari-png/Git-for-dewops.git
+  306  git push -u origin main
+  307  git init
+  308  ls
+  309  la -a
+  310  ls -a
+  311  git add "testing.py"
+  312  git status 
+  313  rm testing.py
+  314  histry
+  315  history]
+  
